@@ -1,0 +1,1 @@
+// JS logic for cart and OTP will be added here
